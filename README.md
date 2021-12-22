@@ -2,6 +2,8 @@
 
 Install Brother DCP-1510 printer into your CUPS subsystem on Linux.
 
+<img src="screenshot.png">
+
 ## Installation
 
 ```
