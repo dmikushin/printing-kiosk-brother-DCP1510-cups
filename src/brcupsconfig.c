@@ -168,7 +168,7 @@ int main(int argc,char * argv[]) {
   initialize_command_list();
 
 
-  write_log_file(5,"brcupsconfig3 version 1.10\n");  
+  write_log_file(5,"brcupsconfig version 1.10\n");  
 
   //************************************
   //  set default setting
